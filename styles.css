@@ -1,0 +1,217 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  }
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 7.3rem;
+  margin: 50px auto 0 auto;
+  }
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2.45rem;
+  font-weight: normal;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  }
+
+h3 {
+  color: #11999E;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.7rem;
+  margin-top: 10px;
+  }
+
+h4 {
+  color: #11999E;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.5rem;
+}
+
+p {
+  font-size: 1.13rem;
+  line-height: 1.5;
+}
+
+div {
+  margin: 0;
+  }
+
+a {
+  color: #11999E;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.2rem;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #EAF6F6;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #66BFBF;
+  border-width: 8px;
+  width:5%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  }
+
+input {
+  font-size: 1.2rem;
+  color: #11999E;
+  font-family: 'Open Sans', sans-serif;
+  font-weight:bold;
+  letter-spacing: 1px;
+
+  }
+
+textarea {
+  font-size: 1.2rem;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+label {
+  color: #11999E;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.3rem;
+  font-weight: 500;
+  margin: 0 8px 0 0;
+  }
+
+.skill-row {
+  display: inline-block;
+  text-align: left;
+  width: 50%;
+  margin: 50px auto;
+}
+
+.top-container {
+  background-color: #ECF6F6;
+  position: relative;
+  padding-top: 100px;
+    }
+
+.middle-container {
+  margin: 100px 0;
+  }
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+  }
+
+.profile-pic {
+  width: 250px;
+  padding-bottom: 25px;
+  }
+
+.intro {
+  width: 50%;
+  margin: auto;
+  line-height: 1.5;
+}
+
+.skill-writing-img {
+  margin-right: 30px;
+  width: 25%;
+  float: left;
+}
+
+.skill-web-img {
+  margin-left: 30px;
+  width: 25%;
+  float: right;
+}
+
+.skill-design-img {
+  margin-right: 30px;
+  width: 25%;
+  float: left;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 30px;
+  width: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 500px;
+  width: 300px;
+}
+
+.mountain {
+  width: 65%;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.contact-button {
+    background-color:#66bfbf;
+  	-moz-border-radius:28px;
+  	-webkit-border-radius:28px;
+  	border-radius:28px;
+  	border:1px solid #66bfbf;
+  	display:inline-block;
+  	cursor:pointer;
+  	color:#ffffff;
+  	font-family:Trebuchet MS;
+  	font-size:24px;
+  	font-weight:bold;
+  	padding:16px 24px;
+  	text-decoration:none;
+    margin-top: 30px;
+
+  }
+  .contact-button:hover {
+  	background-color:#66bfbf;
+  }
+  .contact-button:active {
+  	position:relative;
+  	top:1px;
+  }
+}
+.contact-me {
+  margin-bottom: 30px;
+}
+
+.footer-link {
+  margin: 0 20px;
+}
+
+.copyright-text {
+  color: #ECF6F6;
+  font-size: 0.9rem;
+}
+
+.contact-page {
+  text-align: left;
+}
+
+.contact-top-page {
+  margin: 30px;
+}
+
+.name-row {
+  padding: 10px;
+}
+.email-row {
+  padding: 10px;
+}
+.comment-row {
+  padding: 10px;
+}
